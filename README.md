@@ -1,4 +1,4 @@
-# webscarping-apartments.com
+# webscarping property website
 
 I have used python to do the webscraping for the apartments.com property data and parses apartments.com data search result based on some criteria.
 [New.py] - It is webscraping code
